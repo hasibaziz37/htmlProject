@@ -1,0 +1,42 @@
+body{
+  margin: 0;
+}
+.menu ul{
+  display: inline-block;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.menu ul li{
+  float: left;
+  margin-left: 60px;
+  padding: 20px;
+}
+
+
+.demo .test{
+  background: red;
+  width: 33.33%;
+  float: left;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  text-align: center;
+}
+.demo .test:nth-child(1){
+  background: red;
+}
+.demo .test:nth-child(2){
+  background: blue;
+}
+.demo .test:nth-child(3){
+  background: yellow;
+}
+.demo .test h3{
+  margin: 0;
+}
+
+.image img{
+  margin-top: 10px;
+  width: 100%;
+}
