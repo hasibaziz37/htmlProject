@@ -11,3 +11,5 @@ $git remote -v
 
 $git add Read.txt
 $git commit -m "Third Commit"
+Then Run
+$git push origin master
