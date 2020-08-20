@@ -8,3 +8,5 @@ $git config --global user.email "ha@aa.com"
 $ git remote add origi https://github.com/hasibaziz37/htmlProject.git
 $git push origin master
 $git remote -v
+
+$git commit -m "Third Commit"
